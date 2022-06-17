@@ -1,13 +1,13 @@
 <!-- markdownlint-disable MD033 MD041 -->
 
 <p align="center">
-  <a href="https://arcoeducacao.com.br/">
+  <a href="">
     <img src="" height="64" />
   </a>
   <h2 align="center">Oc3</h2>
 </p>
 
-<p align="center">Technology Services by Arco Education.</p>
+<p align="center">Entregando trainamentos de qualidade.</p>
 
 <p align="center">
   <a href="">About</a>
