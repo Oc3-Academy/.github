@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="">
-    <img src="https://i.imgur.com/05PZ4sT.png" height="124" />
+    <img src="https://i.imgur.com/EVNrtPP.jpg" height="124" />
   </a>
   <h2 align="center">Oc3</h2>
 </p>
